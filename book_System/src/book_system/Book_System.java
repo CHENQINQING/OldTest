@@ -19,6 +19,7 @@ public class Book_System {
         System.out.println("Test");
         System.out.println("Liu");
         System.out.println("hhh");
+        System.out.println("add println");
     }
     
 }
