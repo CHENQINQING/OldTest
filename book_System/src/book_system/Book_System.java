@@ -20,6 +20,7 @@ public class Book_System {
         System.out.println("Liu");
         System.out.println("hhh");
         System.out.println("add println");
+        System.out.println("123");
     }
     
 }
