@@ -18,6 +18,8 @@ public class Book_System {
         // TODO code application logic here
         System.out.println("Test");
         System.out.println("asd");
+        
+        System.out.println("Hello GitHub.");
     }
     
 }
