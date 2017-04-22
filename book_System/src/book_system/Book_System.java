@@ -19,6 +19,7 @@ public class Book_System {
         System.out.println("liushuai");
         System.out.println("1");
         System.out.println("2");
+        int age = 100000;
 
     }
     
