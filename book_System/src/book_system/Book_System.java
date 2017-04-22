@@ -16,9 +16,12 @@ public class Book_System {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Test");
-        System.out.println("test1");
-        System.out.println("123");
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+        System.out.println("4");
+        System.out.println("5");
+        System.out.println("xxx");
     }
     
 }
