@@ -21,7 +21,8 @@ public class Book_System {
         System.out.println("3");
         System.out.println("4");
         System.out.println("5");
-        int age = 0;
+        System.out.println("Xuantong lu");
+        System.out.println("chenqinqing");
     }
     
 }
