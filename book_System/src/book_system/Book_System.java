@@ -23,6 +23,7 @@ public class Book_System {
         System.out.println("5");
         System.out.println("xxx");
         System.out.println("chenqinqing");
+        System.out.println("revert test");
     }
     
 }
