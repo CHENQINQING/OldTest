@@ -16,13 +16,10 @@ public class Book_System {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("liushuai");
         System.out.println("1");
         System.out.println("2");
-        System.out.println("3");
-        System.out.println("4");
-        System.out.println("5");
-        System.out.println("Xuantong lu");
-        System.out.println("chenqinqing");
+
     }
     
 }
