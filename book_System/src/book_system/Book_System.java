@@ -18,11 +18,7 @@ public class Book_System {
         // TODO code application logic here
         System.out.println("1");
         System.out.println("2");
-        System.out.println("3");
-        System.out.println("4");
-        System.out.println("5");
-        System.out.println("xxx");
-        System.out.println("chenqinqing");
+
     }
     
 }
